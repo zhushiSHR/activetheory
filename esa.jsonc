@@ -1,0 +1,7 @@
+{
+  "name": "activetheory",
+  "entry": "./src/main.tsx",
+  "assets": {
+    "directory": "./dist"
+  }
+}
